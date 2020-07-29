@@ -1,0 +1,2 @@
+# strutil
+String manipulation utilities
