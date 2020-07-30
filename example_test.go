@@ -2,7 +2,8 @@ package strutil_test
 
 import (
 	"fmt"
-	"code.lizoc.com/golib/strutil"
+	
+	"github.com/gozl/strutil"
 )
 
 func ExampleEscape() {
